@@ -1,6 +1,6 @@
-# LLM Engineering Roadmap
+# AI Engineering Roadmap
 
-A structured learning roadmap, notes, and resources for LLM Engineering (frontier models, RAG, fine-tuning, agents, and production AI systems).
+A structured learning roadmap, notes, and resources for AI Engineering (LLM Engineering, RAG, fine-tuning, agents, and production AI systems).
 
 ## Who this is for
 
@@ -28,8 +28,8 @@ A structured learning roadmap, notes, and resources for LLM Engineering (frontie
 |-----------------|-----------------|--------|
 | LLM Engineering | Frontier Models | 🚧     |
 | RAG Systems     | —               | 📅     |
-| Fine-tuning     | —                | 📅     |
-| Agents          | —                | 📅     |
+| Fine-tuning     | —               | 📅     |
+| Agents          | —               | 📅     |
 
 ## Contributing
 
@@ -37,4 +37,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Credits
 
-Learning LLM engineering (including Ed Donner's course) and adding research and system-level notes here.
+Learning AI engineering (including Ed Donner's course) and adding research and system-level notes here.
