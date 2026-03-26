@@ -4,7 +4,7 @@ Covers LLM fundamentals and how to build LLM-powered products.
 
 ## Topics
 
-1. [Frontier Models](./01-frontier-models/notes.md)
+1. [Frontier Models](./01-frontier-models/notes.md) — GPT, Claude, Gemini & their strengths and pitfalls
 2. [Types of LLMs](./02-types-of-llms/notes.md)
 
 ## How to study this track

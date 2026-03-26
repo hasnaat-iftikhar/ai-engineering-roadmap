@@ -1,5 +1,12 @@
 # Types of LLMs: Base, Chat, Reasoning, and Hybrid Models
 
+> **Track:** LLM Engineering
+> **Level:** Beginner → Intermediate
+> **Last updated:** 2026-03-26
+> **Status:** Final
+
+---
+
 ## 1. Overview
 
 Most large language models start from the **same basic idea**: guess the **next word** (or small piece of a word) after the text so far. After that, **extra training**, **how the product is built**, and **how the model runs at answer time** turn that skill into **different kinds** of tools.
