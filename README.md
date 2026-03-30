@@ -10,26 +10,28 @@ A structured learning roadmap, notes, and resources for AI Engineering (LLM Engi
 
 ## How to use this repo
 
-1. Start with [Environment setup](./00-environment-setup/README.md) if needed.
-2. Pick a track (LLM Engineering, RAG, Fine-tuning, Agents).
-3. Read `notes.md` first, then `resources.md` for each topic.
-4. Try the `labs/` demos when available.
+1. Start with [Environment setup](./00-environment-setup/README.md) if needed
+2. Pick a track from the table below
+3. Read `notes.md` first, then `resources.md` for each topic
+4. Try the `labs/` demos when available
+5. Check out [Projects](./projects/README.md) for real builds
 
 ## Learning tracks
 
-- [LLM Engineering](./01-llm-engineering/README.md)
-- [RAG Systems](./02-rag-systems/README.md)
-- [Fine-tuning](./03-fine-tuning/README.md)
-- [Agents](./04-agents/README.md)
+| Track | Topics covered | Status |
+|-------|---------------|--------|
+| [**LLM Engineering**](./01-llm-engineering/README.md) | Frontier Models, Types of LLMs, Agentic AI, Gradio UI | 4 topics done |
+| [**RAG Systems**](./02-rag-systems/README.md) | — | Planned |
+| [**Fine-tuning**](./03-fine-tuning/README.md) | — | Planned |
+| [**Agents**](./04-agents/README.md) | — | Planned |
 
-## Progress (roadmap table)
+## Projects
 
-| Track           | Topic           | Status |
-|-----------------|-----------------|--------|
-| LLM Engineering | Frontier Models | 🚧     |
-| RAG Systems     | —               | 📅     |
-| Fine-tuning     | —               | 📅     |
-| Agents          | —               | 📅     |
+| Project | Tech | Link |
+|---------|------|------|
+| Prompt Critic & Optimizer | Python, OpenAI, Gradio | [GitHub](https://github.com/hasnaat-iftikhar/prompt-critic-and-optimizer) |
+
+See all projects → [projects/](./projects/README.md)
 
 ## Contributing
 
@@ -37,4 +39,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Credits
 
-Learning AI engineering (including Ed Donner's course) and adding research and system-level notes here.
+Learning AI engineering and adding research and system-level notes here.
