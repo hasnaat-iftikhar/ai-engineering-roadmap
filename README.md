@@ -20,7 +20,7 @@ A structured learning roadmap, notes, and resources for AI Engineering (LLM Engi
 
 | Track | Topics covered | Status |
 |-------|---------------|--------|
-| [**LLM Engineering**](./01-llm-engineering/README.md) | Frontier Models, Types of LLMs, Agentic AI, Gradio UI | 4 topics done |
+| [**LLM Engineering**](./01-llm-engineering/README.md) | Frontier Models, Types of LLMs, Agentic AI, Gradio UI, RAG | 5 topics done |
 | [**RAG Systems**](./02-rag-systems/README.md) | — | Planned |
 | [**Fine-tuning**](./03-fine-tuning/README.md) | — | Planned |
 | [**Agents**](./04-agents/README.md) | — | Planned |

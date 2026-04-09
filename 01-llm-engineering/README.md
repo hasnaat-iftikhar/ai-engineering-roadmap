@@ -8,6 +8,7 @@ Covers LLM fundamentals and how to build LLM-powered products.
 2. [Types of LLMs](./02-types-of-llms/notes.md) — base, chat, reasoning, hybrid
 3. [Agentic AI](./03-agentic-ai/notes.md) — autonomous AI systems, agent loop, tools
 4. [Gradio UI](./04-gradio-ui/notes.md) — building web apps for AI in Python
+5. [RAG](./05-rag/notes.md) — retrieval-augmented generation, embeddings, vector search
 
 ## How to study this track
 
